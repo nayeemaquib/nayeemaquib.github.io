@@ -16,7 +16,7 @@ author:
 # Permalinks
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: '#001369'
 
 permalink: pretty
 permalink: /:title/
