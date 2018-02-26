@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Today I Learned
+title: Blog
 ---
