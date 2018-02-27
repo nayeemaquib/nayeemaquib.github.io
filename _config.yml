@@ -4,7 +4,7 @@
 title:               Nayeem Aquib
 tagline:             'Software Engineer/Data Junkie'
 description:         ''
-url:                 'http://minicomp.github.io'
+url:                 ''
 baseurl:             ''
 
 # About/contact
@@ -16,7 +16,7 @@ author:
 # Permalinks
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: 'blue'
+color-scheme: ''
 
 permalink: pretty
 permalink: /:title/
