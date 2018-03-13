@@ -6,6 +6,8 @@ tagline:             'Software Engineer/Data Junkie'
 description:         ''
 url:                 ''
 baseurl:             ''
+remote_theme: nayeemaquib/nayeemaquib.github.io
+
 
 # About/contact
 author:
@@ -14,6 +16,8 @@ author:
   email:             nayeemaquib@gmail.com
 
 # Permalinks
+
+
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme: ''
