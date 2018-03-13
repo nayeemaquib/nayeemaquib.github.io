@@ -318,6 +318,8 @@ h3.masthead-title {
 }
 
 .page-title {
+  font-size: 2em;
+  font-weight: bold;
   color: $heading-color;
   margin-top: 0;
 }
@@ -842,5 +844,11 @@ li.prose-indent {
   text-indent: 2rem;
 }
 
-
-
+.searchTerm {
+  width: 50%;
+  height: 3em;
+  border: 3px solid #F5F5F5;
+  padding: 5px;
+  border-radius: 5px;
+  outline: none;
+}
