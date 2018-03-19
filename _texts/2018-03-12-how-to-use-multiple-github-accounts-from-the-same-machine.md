@@ -6,7 +6,8 @@ categories: Github
 ---
 
 _March 12, 2018_
-<br>
+
+
 
 Suppose you have two github accounts, `githubPersonal` and `githubWork`.
 Now to manage both those accounts from the same machine you can follow the following steps:
