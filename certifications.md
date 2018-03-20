@@ -5,6 +5,8 @@ title: Certifications
 
 <br>
 
+[Google Summer of Code 2017](https://s3.amazonaws.com/nayeemaquib.com/Others/Certifications/GSOC+Certificate.pdf)
+
 [The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/certificate/QHVDM3M87Z)
 
 [Nanotechnology: The Basics](https://s3.amazonaws.com/nayeemaquib.com/Others/Certifications/nanotech.pdf)
