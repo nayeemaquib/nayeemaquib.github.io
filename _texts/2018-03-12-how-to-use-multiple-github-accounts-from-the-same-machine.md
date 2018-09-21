@@ -79,12 +79,11 @@ Test to make sure new keys are stored:
 `$ ssh-add -l`
 
 Test to make sure Github recognizes the keys:
-{% highlight shell %}
-$ ssh -T personal  
-Hi githubPersonal! You've successfully authenticated, but GitHub does not provide shell access.  
-$ ssh -T work  
-Hi githubWork! You've successfully authenticated, but GitHub does not provide shell access.
-{% endhighlight %}
+`$ ssh -T personal`  
+`Hi githubPersonal! You've successfully authenticated, but GitHub does not provide shell access.`  
+`$ ssh -T work`  
+`Hi githubWork! You've successfully authenticated, but GitHub does not provide shell access.`
+
 <strong>Step 5: Test it out!<strong>
 
 On Github, create a new repo in your personal account, `githubPersonal`, called `test-personal`.
@@ -94,14 +93,13 @@ Back on your local machine, create a test directory:
 `$ cd ~/githubPersonal/test-personal`
 
 Add a test “readme.md” file and push to Github:
-{% highlight shell %}
-$ touch readme.md  
-$ git init  
-$ git add .  
-$ git commit -m "first commit"  
-$ git remote add origin git@personal:githubPersonal/test-personal.git  
-$ git push origin master
-{% endhighlight %}
+`$ touch readme.md`  
+`$ git init`  
+`$ git add .`  
+`$ git commit -m "first commit"`  
+`$ git remote add origin git@personal:githubPersonal/test-personal.git`  
+`$ git push origin master`
+
 Repeat the process for your githubWork account. Except replace the following command:
 
 `$ git remote add origin git@personal:githubPersonal/test-personal.git`
