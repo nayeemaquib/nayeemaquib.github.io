@@ -79,12 +79,12 @@ Test to make sure new keys are stored:
 `$ ssh-add -l`
 
 Test to make sure Github recognizes the keys:
-
+{% highlight shell %}
 `$ ssh -T personal`  
 `Hi githubPersonal! You've successfully authenticated, but GitHub does not provide shell access.`  
 `$ ssh -T work`  
 `Hi githubWork! You've successfully authenticated, but GitHub does not provide shell access.`
-
+{% endhighlight %}
 <strong>Step 5: Test it out!<strong>
 
 On Github, create a new repo in your personal account, `githubPersonal`, called `test-personal`.
