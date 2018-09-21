@@ -8,9 +8,10 @@ categories: Github
 _September 21, 2018_
 
 <h2>How to rename a local git branch?</h2>
-  
+<br />
 If in current branch, type:  
 `$ git branch -m <newname>`  
+  
 So to change a branch name from `feature-v0.1` to `feature-v0.2` while in `feature-v0.1`, type:  
 `$ git branch -m feature-v0.2`  
 If in another branch, type:  
