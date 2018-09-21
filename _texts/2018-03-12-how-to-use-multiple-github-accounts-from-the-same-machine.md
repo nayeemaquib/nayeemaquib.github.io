@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Manage Multiple Github Accounts from the Same Machine"
-date:   2018-3-12 16:16:01 -0600
+date:   2018-03-12
 categories: Github
 ---
 

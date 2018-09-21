@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Force Refreshing Chrome Favicon DB from Mac Terminal"
-date:   2018-3-12 16:16:01 -0600
+date:   2018-03-19
 categories: Web Development
 ---
 

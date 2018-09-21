@@ -7,3 +7,6 @@ categories: Github
 
 _September 19, 2018_
 
+zip -> unzip
+gzip -> gunzip
+tar -> tar
