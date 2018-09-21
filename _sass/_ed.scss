@@ -9,13 +9,7 @@
  * Based on the Poole and Lanyon theme by @mdo. Learn more at
  * https://github.com/minicomp/ed.
  */
-
-
-
-
 /* To apply a different color scheme to the whole scroll down to the themes section for instructions */
-
-
  /*
  * General
  *
@@ -78,7 +72,7 @@ body {
  */
 
 .container {
-  max-width: 80rem;
+  max-width: 1000rem;
   padding-left:  1rem;
   padding-right: 1rem;
   margin-left:  auto;
@@ -92,7 +86,7 @@ body {
 }
 @media (min-width: 56em) {
   .container {
-    max-width: 38rem;
+    max-width: 1000rem;
   }
 }
 
