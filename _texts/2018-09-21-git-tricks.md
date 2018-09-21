@@ -7,6 +7,8 @@ categories: Github
 
 _September 21, 2018_
 
+
+
 <h2>How to rename a local git branch?</h2>
 <br />
 If in current branch, type:  
