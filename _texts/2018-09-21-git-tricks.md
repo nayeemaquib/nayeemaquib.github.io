@@ -8,7 +8,7 @@ categories: Github
 _September 21, 2018_
 
 <h2>How to rename a local git branch?</h2>
-
+  
 If in current branch, type:  
 `$ git branch -m <newname>`  
 So to change a branch name from `feature-v0.1` to `feature-v0.2` while in `feature-v0.1`, type:  
@@ -17,10 +17,10 @@ If in another branch, type:
 `$ git branch -m <oldname> <newname>`  
 So to change a branch name from `feature-v0.1` to `feature-v0.2` while in any other branch, say `master`, type:  
 `$ git branch -m feature-v0.1 feature-v0.2`  
-
-
+  
+  
 <h2>How to delete a git branch?</h2>
-
+  
 To delete a local branch there are two options:  
 `$ git branch -d <branchname>`  
 `$ git branch -D <branchname>`  
@@ -30,7 +30,7 @@ merged status, which makes it same as:
 `$ git branch -df <branchname>`  
 So to delete a branch named `feature-v0.1`, type:  
 `$ git branch -d feature-v0.1`  
-
+  
 To delete a remote branch there are two identical options:  
 `$ git push <remotename> -d <branchname>`  
 `$ git push <remotename> :<branchname>`  
