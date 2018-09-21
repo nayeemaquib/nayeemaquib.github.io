@@ -10,7 +10,7 @@ _September 21, 2018_
 
 
 <h2>How to rename a local git branch?</h2>
-<br />
+  
 If in current branch, type:  
 `$ git branch -m <newname>`  
 So to change a branch name from `feature-v0.1` to `feature-v0.2` while in `feature-v0.1`, type:  
@@ -23,7 +23,7 @@ So to change a branch name from `feature-v0.1` to `feature-v0.2` while in any ot
 <br />
 
 <h2>How to delete a git branch?</h2>
-<br />
+  
 To delete a local branch there are two options:  
 `$ git branch -d <branchname>`  
 `$ git branch -D <branchname>`  
