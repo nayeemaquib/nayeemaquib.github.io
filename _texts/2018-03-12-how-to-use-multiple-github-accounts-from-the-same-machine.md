@@ -94,14 +94,14 @@ Back on your local machine, create a test directory:
 `$ cd ~/githubPersonal/test-personal`
 
 Add a test “readme.md” file and push to Github:
-
-`$ touch readme.md`  
-`$ git init`  
-`$ git add .`  
-`$ git commit -m "first commit"`  
-`$ git remote add origin git@personal:githubPersonal/test-personal.git`  
-`$ git push origin master`
-
+{% highlight shell %}
+$ touch readme.md  
+$ git init  
+$ git add .  
+$ git commit -m "first commit"  
+$ git remote add origin git@personal:githubPersonal/test-personal.git  
+$ git push origin master
+{% endhighlight %}
 Repeat the process for your githubWork account. Except replace the following command:
 
 `$ git remote add origin git@personal:githubPersonal/test-personal.git`
