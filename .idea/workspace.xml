@@ -28,18 +28,29 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="_syntax.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_sass/_syntax.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-821" />
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="_ed.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sass/_ed.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="309" column="7" lean-forward="true" selection-start-line="309" selection-start-column="7" selection-end-line="309" selection-end-column="7" />
+            <state relative-caret-position="293">
+              <caret line="304" column="3" lean-forward="true" selection-start-line="304" selection-start-column="3" selection-end-line="304" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_syntax.scss" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_sass/_syntax.scss">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="2018-09-21-git-tricks.md" pinned="false" current-in-tab="false">
@@ -165,12 +176,19 @@
             <path>
               <item name="my-portfolio-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-portfolio-site" type="462c0819:PsiDirectoryNode" />
-              <item name="_texts" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="my-portfolio-site" type="b2602c69:ProjectViewProjectNode" />
               <item name="my-portfolio-site" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my-portfolio-site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-portfolio-site" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -224,12 +242,12 @@
       <workItem from="1522072981987" duration="1685000" />
       <workItem from="1522782505888" duration="549000" />
       <workItem from="1522867125936" duration="47000" />
-      <workItem from="1537382385683" duration="4299000" />
+      <workItem from="1537382385683" duration="4633000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34829000" />
+    <option name="totallyTimeSpent" value="35163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -242,7 +260,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32923076" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.18358974" />
       <window_info id="Favorites" order="2" sideWeight="0.504" side_tool="true" weight="0.20833333" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -261,13 +279,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -317,12 +328,6 @@
     <entry file="file://$PROJECT_DIR$/_includes/icon-linkedin.html" />
     <entry file="file://$PROJECT_DIR$/_includes/icon-linkedin.svg" />
     <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/elasticlunr.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/search.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/phrase.rnc">
@@ -431,13 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/certifications.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -468,13 +466,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_texts/2018-09-21-git-tricks.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -485,13 +476,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_syntax.scss">
+    <entry file="file://$PROJECT_DIR$/assets/css/_ed.scss">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/elasticlunr.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/search.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/_syntax.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-821" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_ed.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="309" column="7" lean-forward="true" selection-start-line="309" selection-start-column="7" selection-end-line="309" selection-end-column="7" />
+        <state relative-caret-position="293">
+          <caret line="304" column="3" lean-forward="true" selection-start-line="304" selection-start-column="3" selection-end-line="304" selection-end-column="3" />
         </state>
       </provider>
     </entry>
