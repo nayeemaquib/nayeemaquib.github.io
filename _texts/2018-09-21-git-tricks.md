@@ -41,5 +41,19 @@ So to delete a remote branch named `feature-v0.2` assuming remote name is `origi
 `$ git push origin -d feature-v0.2`  
 <br />
 
+<h2>How to properly merge a git branch to master?</h2>
+
+If in current branch, type:  
+`$ git checkout master`
+`$ git pull`
+`$ git checkout <branch-name>`
+`$ git pull`
+`$ git rebase -i master`
+`$ git checkout master`
+`$ git merge <branch-name>`
+
+To brush up about rebasing, check out this [page](https://git-scm.com/book/en/v2/Git-Branching-Rebasing).
+
+<br />
 
 
