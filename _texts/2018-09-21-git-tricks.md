@@ -50,7 +50,6 @@ If in current branch, type:
 `$ git push origin master`
 
 To brush up about rebasing, check out this [page](https://git-scm.com/book/en/v2/Git-Branching-Rebasing).
-
 <br />
 
 <h2>How to compare two branches of git?</h2>
@@ -70,7 +69,8 @@ For a compact tree of the log use:
 If they are not locally available, then either get them by using:  
 `$ git checkout branch_name`  
 Or specify the remotes path:
-`$ git diff remotes/origin/branch1..remotes/origin/branch2`  
+`$ git diff remotes/origin/branch1..remotes/origin/branch2` 
+<br /> 
 
 <h2>How to reset remote to a certain commit?</h2>
 
@@ -80,4 +80,6 @@ e.g:
 `$ git push -f origin 91ace7351:master`  
 If it is the current commit, that you want to match then just use:  
 `$ git push -f origin master`  
+<br />
 
+<h2></h2>
