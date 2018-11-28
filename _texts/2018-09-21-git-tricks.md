@@ -45,15 +45,39 @@ So to delete a remote branch named `feature-v0.2` assuming remote name is `origi
 
 If in current branch, type:  
 `$ git checkout master`  
-`$ git pull`  
-`$ git checkout <branch-name>`  
-`$ git pull`  
-`$ git rebase -i master`  
-`$ git checkout master`  
+`$ git pull origin master`   
 `$ git merge <branch-name>`  
+`$ git push origin master`
 
 To brush up about rebasing, check out this [page](https://git-scm.com/book/en/v2/Git-Branching-Rebasing).
 
 <br />
 
+<h2>How to compare two branches of git?</h2>
+
+Given that both of them are locally available, to see the difference at the tip:  
+`$ git diff branch1/hash1..branch2/hash2`  
+To see the difference from their common ancestor:  
+`$ git diff branch1/hash1...branch2/hash2`  
+
+To find the tag use:
+`$ git log`  
+For a compact version of the log use:
+`$ git log --oneline`  
+For a compact tree of the log use:
+`git log --graph --all --oneline --decorate`  
+
+If they are not locally available, then either get them by using:  
+`$ git checkout branch_name`  
+Or specify the remotes path:
+`$ git diff remotes/origin/branch1..remotes/origin/branch2`  
+
+<h2>How to reset remote to a certain commit?</h2>
+
+To make the remote match a commit that is locally available use:  
+`$ git push --force origin <hash>:<remote_branch_name>`  
+e.g:  
+`$ git push --force origin 91ace7351:master`  
+If it is the current commit, that you want to match then just use:  
+`$ git push -f origin master`  
 

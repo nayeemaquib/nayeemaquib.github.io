@@ -55,8 +55,8 @@
         <entry file="file://$PROJECT_DIR$/_texts/2018-09-21-git-tricks.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="566">
-                <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+              <first_editor relative-caret-position="564">
+                <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
               </first_editor>
               <second_editor />
             </state>
@@ -261,12 +261,12 @@
       <workItem from="1522867125936" duration="47000" />
       <workItem from="1537382385683" duration="4863000" />
       <workItem from="1537905228243" duration="650000" />
-      <workItem from="1543332340219" duration="911000" />
+      <workItem from="1543332340219" duration="2328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40625000" />
+    <option name="totallyTimeSpent" value="42042000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -522,8 +522,8 @@
     <entry file="file://$PROJECT_DIR$/_texts/2018-09-21-git-tricks.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="566">
-            <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+          <first_editor relative-caret-position="564">
+            <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
           </first_editor>
           <second_editor />
         </state>
