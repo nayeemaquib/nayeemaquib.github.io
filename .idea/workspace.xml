@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="496bf917-8c3c-45cc-b5e7-c18ca6400e6b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_texts/2018-09-21-git-tricks.md" beforeDir="false" afterPath="$PROJECT_DIR$/_texts/2018-09-21-git-tricks.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -55,8 +56,8 @@
         <entry file="file://$PROJECT_DIR$/_texts/2018-09-21-git-tricks.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="564">
-                <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+              <first_editor relative-caret-position="549">
+                <caret line="81" column="31" lean-forward="true" selection-start-line="81" selection-start-column="31" selection-end-line="81" selection-end-column="31" />
               </first_editor>
               <second_editor />
             </state>
@@ -261,12 +262,12 @@
       <workItem from="1522867125936" duration="47000" />
       <workItem from="1537382385683" duration="4863000" />
       <workItem from="1537905228243" duration="650000" />
-      <workItem from="1543332340219" duration="2328000" />
+      <workItem from="1543332340219" duration="2660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42042000" />
+    <option name="totallyTimeSpent" value="42374000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -522,8 +523,8 @@
     <entry file="file://$PROJECT_DIR$/_texts/2018-09-21-git-tricks.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="564">
-            <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+          <first_editor relative-caret-position="549">
+            <caret line="81" column="31" lean-forward="true" selection-start-line="81" selection-start-column="31" selection-end-line="81" selection-end-column="31" />
           </first_editor>
           <second_editor />
         </state>

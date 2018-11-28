@@ -75,9 +75,9 @@ Or specify the remotes path:
 <h2>How to reset remote to a certain commit?</h2>
 
 To make the remote match a commit that is locally available use:  
-`$ git push --force origin <hash>:<remote_branch_name>`  
+`$ git push -f <remote> <hash/branch_name>:<hash/remote_branch_name>`  
 e.g:  
-`$ git push --force origin 91ace7351:master`  
+`$ git push -f origin 91ace7351:master`  
 If it is the current commit, that you want to match then just use:  
 `$ git push -f origin master`  
 
