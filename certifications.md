@@ -5,6 +5,10 @@ title: Certifications
 
 <br>
 
+[Advanced Google Analytics](https://s3.amazonaws.com/nayeemaquib.com/Others/Certifications/GA_Advanced.pdf)
+
+[Google Analytics Individual Qualification](https://s3.amazonaws.com/nayeemaquib.com/Others/Certifications/Google+Analytics+Individual+Qualification+_+Google.pdf)
+
 [Google Summer of Code 2017](https://s3.amazonaws.com/nayeemaquib.com/Others/Certifications/GSOC+Certificate.pdf)
 
 [The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/certificate/QHVDM3M87Z)
