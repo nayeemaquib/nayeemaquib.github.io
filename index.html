@@ -39,6 +39,23 @@ title: "Nayeem Aquib"
     background: #FF5D50;
     z-index: 333;
   }
+  .goal-stat {
+    width: 25%;
+    padding: 10px;
+    float: left;
+    margin: 0;
+
+  @media only screen and (max-width : 640px) {
+    width: 50%;
+    text-align: center;
+  }
+  }
+  .goal-number, .goal-label {
+    display: block;
+  }
+  .goal-number {
+    font-weight: bold;
+  }
 
 </style>
 <div class="introduction">
@@ -144,6 +161,10 @@ title: "Nayeem Aquib"
     <div id="glass">
       <div id="progress">
       </div>
+    </div>
+    <div class="goal-stat">
+      <span class="goal-number">50</span>
+      <span class="goal-label">75</span>
     </div>
   </div>
 
