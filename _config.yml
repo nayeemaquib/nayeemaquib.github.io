@@ -50,6 +50,6 @@ exclude:
   - vendor
 
 # Theme
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-dinky
 
 
